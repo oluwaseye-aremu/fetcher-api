@@ -34,10 +34,9 @@ Thumbs.db
 
 # Python
 venv/
-__pycache/
+__pycache__/
 *.pyc
 *.pyo
 
 # Data files
-*.csv
-*.gpkg
+# Note: import_data.py is included for data import

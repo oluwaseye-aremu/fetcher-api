@@ -367,7 +367,9 @@ This project uses the GRID3 dataset licensed under Creative Commons Attribution-
 
 For issues or questions:
 - Open an issue on GitHub
-- Contact: [your-email@example.com]
+- Contact: omolanweshly@gmail.com
+- X:https://x.com/oluwaloseye1?s=11
+- LinkedIn: oluwaseyearemu32
 
 ## Acknowledgments
 
